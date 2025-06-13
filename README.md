@@ -2,10 +2,10 @@
 
 ITA:
 business veloce → PDF con teoria
-\nreport → Due versioni uguali, una in inglese e una in italiano
-\nipynb → File Python Jupyter Notebook
+report → Due versioni uguali, una in inglese e una in italiano
+ipynb → File Python Jupyter Notebook
 
 ENG:
 business veloce → a PDF containing theory
-\nreport → two identical versions, one in English and one in Italian
-\nipynb → a Python Jupyter Notebook file
+report → two identical versions, one in English and one in Italian
+ipynb → a Python Jupyter Notebook file
